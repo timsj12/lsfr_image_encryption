@@ -1,6 +1,5 @@
-# Tim Jarvis
-# Module 8: Linear Feedback Shift Registers
-# Due Date: July 31, 2022
+# Linear Feedback Shift Registers
+
 
 # LFSR steps binary number shifting bits to the left and XOR last bit and tap bit to the first.
 # LFSR: inputs seed and tap; tap = bit location of XOR value
