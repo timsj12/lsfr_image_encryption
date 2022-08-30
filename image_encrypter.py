@@ -1,6 +1,5 @@
-# Tim Jarvis
-# Module 8: Linear Feedback Shift Registers
-# Due Date: July 31, 2022
+# Linear Shift Feedback Register
+# Image Encrypter
 
 from PIL import Image
 from lfsr import LFSR
